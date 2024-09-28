@@ -12,3 +12,4 @@ db.once('open', function() {
 //models...
 
 require("./Categorys");
+require("./Recipes")
